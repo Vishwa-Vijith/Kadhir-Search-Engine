@@ -4,6 +4,10 @@
 
 Kadhir Search Engine is a real-time search engine that dynamically fetches the latest technology news, research papers, and trends from various sources such as GDELT, NewsData.io, arXiv, Semantic Scholar, Hacker News, GitHub, and Product Hunt.
 
+
+🌟 Why the Name "Kadhir"?
+The name "Kadhir" is inspired by the Tamil word "கதிர்" (Kadhir), which means "ray of light" or "brilliance." Just like how a ray of light illuminates the dark, Kadhir Search Engine aims to bring clarity by delivering precise, real-time knowledge from the vast world of technology. It symbolizes enlightenment, innovation, and the pursuit of knowledge.
+
 ---
 
 ## 📌 Features
