@@ -1,0 +1,42 @@
+.result-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.result-card {
+    background: #222124;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 600px;
+    min-height: 50px;
+    max-height: 150px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column; 
+    justify-content: space-between;
+}
+
+.result-title {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.result-title:hover {
+    text-decoration: underline;
+}
+
+.result-snippet {
+    font-size: 0.8rem;
+    color: #cbc9d4;
+    margin: 10px 0;
+}
+
+.search-result-date {
+    font-size: 0.68rem;
+    color: gray;
+}

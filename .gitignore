@@ -1,0 +1,10 @@
+front-end/node_modules/
+front-end/.env
+
+back-end/target/
+back-end/.idea/
+back-end/.mvn/
+back-end/application.properties
+
+.DS_Store
+*.log
