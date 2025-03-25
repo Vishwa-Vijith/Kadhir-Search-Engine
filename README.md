@@ -12,12 +12,12 @@ The name "Kadhir" is inspired by the Tamil word "கதிர்" (Kadhir), whic
 
 ## 📌 Features
 
-✅ **Real-time Crawling** – Fetches fresh content on demand.
-✅ **Query Categorization** – Classifies queries into tech news, research papers, or trending repositories.
-✅ **Multi-source Integration** – Uses APIs like GDELT, NewsData.io, arXiv, Semantic Scholar, GitHub, and more.
-✅ **Search Ranking & Filtering** – Provides relevant, recent, and popular results.
-✅ **Fast & Scalable Backend** – Built with Java & Spring Boot.
-✅ **Intuitive Frontend** – Developed using React.js.
+-✅ **Real-time Crawling** – Fetches fresh content on demand.
+-✅ **Query Categorization** – Classifies queries into tech news, research papers, or trending repositories.
+-✅ **Multi-source Integration** – Uses APIs like GDELT, NewsData.io, arXiv, Semantic Scholar, GitHub, and more.
+-✅ **Search Ranking & Filtering** – Provides relevant, recent, and popular results.
+-✅ **Fast & Scalable Backend** – Built with Java & Spring Boot.
+-✅ **Intuitive Frontend** – Developed using React.js.
 
 ---
 
