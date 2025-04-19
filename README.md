@@ -2,6 +2,15 @@
 
 🔍 **Real-time Search Engine for Technology Updates**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-D32F2F?style=flat&logo=redis&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-5D3F6B?style=flat&logo=mockito&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 Kadhir Search Engine is a real-time search engine that dynamically fetches the latest technology news, research papers, and trends from various sources such as GDELT, arXiv, Semantic Scholar, Hacker News, GitHub, and Product Hunt.
 
 
@@ -19,6 +28,16 @@ The name "Kadhir" is inspired by the Tamil word "கதிர்" (Kadhir), whic
 - ✅ **Fast & Scalable Backend** – Built with Java & Spring Boot.
 - ✅ **Intuitive Frontend** – Developed using React.js.
 
+### 🔹 APIs & Data Sources
+![GDELT](https://img.shields.io/badge/GDELT-3A8DFF?style=flat&logo=google&logoColor=white)
+![NewsData.io](https://img.shields.io/badge/NewsData.io-25A1E2?style=flat&logo=news&logoColor=white)
+![arXiv](https://img.shields.io/badge/arXiv-1B1F29?style=flat&logo=arxiv&logoColor=white)
+![Semantic Scholar](https://img.shields.io/badge/Semantic_Scholar-1B6B76?style=flat&logo=semantic-scholar&logoColor=white)
+![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat&logo=github&logoColor=white)
+![Product Hunt](https://img.shields.io/badge/Product_Hunt-DA552F?style=flat&logo=producthunt&logoColor=white)
+![Hacker News](https://img.shields.io/badge/Hacker_News-F0DB4F?style=flat&logo=hacker-news&logoColor=black)
+
+
 ---
 
 ## 🏗️ Tech Stack
@@ -34,12 +53,6 @@ The name "Kadhir" is inspired by the Tamil word "கதிர்" (Kadhir), whic
 - React 18 with Hooks
 - React Router for navigation
 - Fetch API for backend communication
-
-### 🔹 APIs & Data Sources
-- **GDELT & NewsData.io** – Fetch latest tech news
-- **arXiv & Semantic Scholar** – Get latest research papers
-- **GitHub API & Product Hunt** – Find trending repositories and projects
-- **Hacker News API (YCombinator)** – Tech discussions and insights
 
 ---
 
@@ -92,6 +105,8 @@ npm start    # Runs the frontend on port 3000
 ---
 
 ## 📜 License
+
+![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
 This project is open-source under the MIT License.
 
