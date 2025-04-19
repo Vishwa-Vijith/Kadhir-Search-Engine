@@ -2,7 +2,7 @@
 
 🔍 **Real-time Search Engine for Technology Updates**
 
-Kadhir Search Engine is a real-time search engine that dynamically fetches the latest technology news, research papers, and trends from various sources such as GDELT, NewsData.io, arXiv, Semantic Scholar, Hacker News, GitHub, and Product Hunt.
+Kadhir Search Engine is a real-time search engine that dynamically fetches the latest technology news, research papers, and trends from various sources such as GDELT, arXiv, Semantic Scholar, Hacker News, GitHub, and Product Hunt.
 
 
 🌟 Why the Name "Kadhir"?
@@ -12,12 +12,12 @@ The name "Kadhir" is inspired by the Tamil word "கதிர்" (Kadhir), whic
 
 ## 📌 Features
 
--✅ **Real-time Crawling** – Fetches fresh content on demand.
--✅ **Query Categorization** – Classifies queries into tech news, research papers, or trending repositories.
--✅ **Multi-source Integration** – Uses APIs like GDELT, NewsData.io, arXiv, Semantic Scholar, GitHub, and more.
--✅ **Search Ranking & Filtering** – Provides relevant, recent, and popular results.
--✅ **Fast & Scalable Backend** – Built with Java & Spring Boot.
--✅ **Intuitive Frontend** – Developed using React.js.
+- ✅ **Real-time Crawling** – Fetches fresh content on demand.
+- ✅ **Query Categorization** – Classifies queries into tech news, research papers, or trending repositories.
+- ✅ **Multi-source Integration** – Uses APIs like GDELT, NewsData.io, arXiv, Semantic Scholar, GitHub, and more.
+- ✅ **Search Ranking & Filtering** – Provides relevant, recent, and popular results.
+- ✅ **Fast & Scalable Backend** – Built with Java & Spring Boot.
+- ✅ **Intuitive Frontend** – Developed using React.js.
 
 ---
 
